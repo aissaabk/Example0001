@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مثال 0001</string>
+    <string name="button">غير النص</string>
+    <string name="text_view">مرحبا برمجة الاندرويد</string>
+    <string name="text_after_change_text">النص بعد ضغط الزر</string>
+</resources>

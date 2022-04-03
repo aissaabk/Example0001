@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Example0001</string>
+    <string name="text_view">hello android programming</string>
+    <string name="button">change text</string>
+    <string name="text_after_change_text">text after click button</string>
+</resources>
